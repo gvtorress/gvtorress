@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Torres</h1>
 
-- I've worked with finance for the past 5 years, but this year I decided to change career and become a developer
+- I've worked with finance for the past 5 years, but this year (2021) I decided to change career and become a developer
 - In July/2021, I started studyng HTML, CSS and JavaScript, and a little bit of Python, and ReactJs, React Native and NodeJs Frameworks
 - I'm currently looking for my first job as a web or mobile front-end developer
 - I'm currently specializing in React Native and React Frameworks
