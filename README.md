@@ -2,7 +2,7 @@
 
 - I've worked with finance for the past 5 years, but this year (2021) I decided to change career and become a developer
 - In July/2021, I started studyng HTML, CSS and JavaScript, later on I started with ReactJs, React Native and NodeJs Frameworks, and a little bit of Python
-- I'm currently looking for my first job as a web or mobile front-end developer
+- I'm currently working as a Junior Fullstack Web Developer, with ReactJS and NodeJS(NestJS framework).
 - I'm currently specializing in React Native and React Frameworks
 - I'm currently working on some personal projects and freelances for friends and acquaintances
 
